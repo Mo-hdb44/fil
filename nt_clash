@@ -61,7 +61,7 @@ export default {
           return ""
         }
       })
-      configList = getMultipleRandomElements(configList.filter(cnf => (cnf.length > 10)), 150)
+      configList = getMultipleRandomElements(configList.filter(cnf => (cnf.length > 10)), 100)
       return new Response(btoa(configList.join("\n")));
     } else {
       var url = new URL(request.url)
