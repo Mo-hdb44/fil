@@ -3,7 +3,7 @@ const subLink2 = "https://raw.githubusercontent.com/Mo-hdb44/fil/main/profiles_c
 const cnfLink1 = "https://raw.githubusercontent.com/Mo-hdb44/fil/main/profiles_clash2.txt"
 const cleanIPLink = "http://bot.sudoer.net/best.cf.iran.all"
 const operatorList = ["AST", "HWB", "IRC", "MBT", "MCI", "MKB", "PRS", "RTL", "SHT", "ZTL"]
-const addressList = ["discord.com", "homestead.com", "ips.cloudips.ir", "networksolutions.com", "arnebrachhold.de"]
+const addressList = ["toptal.com", "homestead.com", "ips.cloudips.ir", "networksolutions.com", "arnebrachhold.de", "hopin.com", "cxl.com"]
 const fpList = ["chrome", "chrome", "chrome", "firefox", "safari", "edge", "ios", "android", "random", "random"]
 const alpnList = ["http/1.1"]
 
